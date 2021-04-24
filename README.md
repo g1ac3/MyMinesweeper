@@ -1,4 +1,4 @@
-# MyMinesweeper
+# MyMinesweeper\n
 コンソール上で動くマインスイーパー
 difficulty(easy 0~5 hard) : 整数を入力して難易度を指定 (0<=x<=5)
 (H,W) : 盤面のサイズ(マス数)を指定 (1<=(H,W)<=INT_MAX-1) 上限に関して動作検証なし
